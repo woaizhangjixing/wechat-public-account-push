@@ -13,10 +13,10 @@ export const config = {
   // 如果你非要填这里也行。脚本也能运行
   // APP_SECRET: "fddb71ff6e99b7c28dd98df095742cae",
 
-  /**
-   * 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如
-   * [9zH50yAkhRs77b60z mU Tsoezt9oBpWktX
+  /**9zH50yAkhRs77b60z mU Tsoezt9oBpWktX
 MMFhEkalQ
+   * 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如
+   * [
    *  {
    *    // 想要发送的人的名字
    *    name: "老婆0",
