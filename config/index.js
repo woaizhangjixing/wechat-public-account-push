@@ -34,9 +34,10 @@ MMFhEkalQ
       // 想要发送的人的名字
       name: "老婆0",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "ohxOO6VskY2v40Kuf5ywIZVRM3puXhk",
+      id: "oQbhN5oNECIpZtjD2ZFxHTmyySM0",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "Wue80GrtY1nAi5a4tam4FDxZF59WNx9pwcBc06LMpANnu8",
+      useTemplateId: "9zH50yAkhRs77b60z mU Tsoezt9oBpWktX
+MMFhEkalQ",
       // 所在省份
       province: "辽宁",
       // 所在城市
